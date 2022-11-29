@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\cheehow\\Documents\\GitHub\\IdentityMSSQL\\IdentityMSSQL.csproj": {}
+    "C:\\Users\\cheehow\\Documents\\GitHub\\IdentityMSSQL\\IdentityMSSQL.csproj": {}
   },
   "projects": {
-    "c:\\Users\\cheehow\\Documents\\GitHub\\IdentityMSSQL\\IdentityMSSQL.csproj": {
+    "C:\\Users\\cheehow\\Documents\\GitHub\\IdentityMSSQL\\IdentityMSSQL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\cheehow\\Documents\\GitHub\\IdentityMSSQL\\IdentityMSSQL.csproj",
+        "projectUniqueName": "C:\\Users\\cheehow\\Documents\\GitHub\\IdentityMSSQL\\IdentityMSSQL.csproj",
         "projectName": "IdentityMSSQL",
-        "projectPath": "c:\\Users\\cheehow\\Documents\\GitHub\\IdentityMSSQL\\IdentityMSSQL.csproj",
+        "projectPath": "C:\\Users\\cheehow\\Documents\\GitHub\\IdentityMSSQL\\IdentityMSSQL.csproj",
         "packagesPath": "C:\\Users\\cheehow\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\cheehow\\Documents\\GitHub\\IdentityMSSQL\\obj\\",
+        "outputPath": "C:\\Users\\cheehow\\Documents\\GitHub\\IdentityMSSQL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -53,11 +53,15 @@
               "target": "Package",
               "version": "[6.0.1, )"
             },
-            "Microsoft.EntityFrameworkCore.Sqlite": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[6.0.1, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[6.0.1, )"
             }
